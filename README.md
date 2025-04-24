@@ -1,2 +1,2 @@
 # my-project
-sample
+SIMPLE PROJECT SAMPLE
